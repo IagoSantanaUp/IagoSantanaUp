@@ -19,8 +19,22 @@ Meu nome é Iago Santana. Atualmente estou me tornando um **Desenvolvedor Full S
 [![Linkedin](https://img.shields.io/badge/IagoSantanaUp-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iago-santanaup/) 
 
 
-### My Skills:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,nodejs,)](https://skillicons.dev)
+### Tecnologias e Ferramentas 🔧
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicamedeirosp&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
+
+### GitHub Stats ⚡
+<div>
+<a href="https://github.com/iagosantanaup">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagosantanaup&layout=compact&langs_count=7&theme=date_night"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iagosantanaup&show_icons=true&theme=date_night&include_all_commits=true&count_private=true"/>
+</div>
+
+
 
