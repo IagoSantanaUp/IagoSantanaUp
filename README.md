@@ -1,8 +1,6 @@
 
 # :vulcan_salute: Olá, Meu nome é Iago! 
 
-![](https://komarev.com/ghpvc/?username=jessicamedeirosp&color=000000)
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=iagosantanaup&countColorcountColor&countColor=%232979ff) ![GitHub followers](https://img.shields.io/github/followers/iagosantanaup?label=Follow&style=social)
 
 <img src="https://media.licdn.com/dms/image/D4D03AQEqDskBuvZ00A/profile-displayphoto-shrink_200_200/0/1719442959097?e=1725494400&v=beta&t=MgCymqDZha-FVr4L6jV7b6UehyxvPWRwGfH-OVQgTgg" width="250px" align="right" >
 <p align="left" style="text![Uploading PXL_20230709_133901200-transformed.png…]()
